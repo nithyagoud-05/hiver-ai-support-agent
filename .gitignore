@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+twcs.csv
+candidates_filtered.csv
+spotify_clean_dialogues.csv
